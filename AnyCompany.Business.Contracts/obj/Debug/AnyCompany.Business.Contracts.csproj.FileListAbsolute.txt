@@ -1,0 +1,7 @@
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\bin\Debug\AnyCompany.Business.Contracts.dll
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\bin\Debug\AnyCompany.Business.Contracts.pdb
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\bin\Debug\AnyCompany.Models.dll
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\bin\Debug\AnyCompany.Models.pdb
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\obj\Debug\AnyCompany.Business.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\obj\Debug\AnyCompany.Business.Contracts.dll
+C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business.Contracts\obj\Debug\AnyCompany.Business.Contracts.pdb
