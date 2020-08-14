@@ -2,3 +2,7 @@ C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Models
 C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Models\bin\Debug\AnyCompany.Models.pdb
 C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Models\obj\Debug\AnyCompany.Models.dll
 C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Models\obj\Debug\AnyCompany.Models.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Models\bin\Debug\AnyCompany.Models.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Models\bin\Debug\AnyCompany.Models.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Models\obj\Debug\AnyCompany.Models.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Models\obj\Debug\AnyCompany.Models.pdb

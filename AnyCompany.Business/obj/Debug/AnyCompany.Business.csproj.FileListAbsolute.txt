@@ -9,3 +9,14 @@ C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Busine
 C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business\obj\Debug\AnyCompany.Business.csprojResolveAssemblyReference.cache
 C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business\obj\Debug\AnyCompany.Business.dll
 C:\Users\Lulamile Gaji\Source\Repos\seanogt\tech-test\TechTest\AnyCompany.Business\obj\Debug\AnyCompany.Business.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\obj\Debug\AnyCompany.Business.csprojResolveAssemblyReference.cache
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Business.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Business.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Business.Contracts.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Data.Contracts.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Models.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Business.Contracts.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Data.Contracts.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\bin\Debug\AnyCompany.Models.pdb
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\obj\Debug\AnyCompany.Business.dll
+C:\Users\Lulamile Gaji\Source\Repos\tech-test\AnyCompany.Business\obj\Debug\AnyCompany.Business.pdb
